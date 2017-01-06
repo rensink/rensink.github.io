@@ -1,0 +1,5 @@
+Arend Rensink received his MSc and PhD degrees in Computer Science at the University of Twente (Netherlands). From 1993 he worked as assistant professor at the University of Hildesheim (Germany), then (from 1998) as associate professor at University of Twente, first in the Software Engineering group and subsequently in Formal Methods and Tools. In 2010 he was appointed full professor of Software Modelling, Transformation and Verification.
+
+His current research interests are in the area of certifiable model transformation and model-based analysis. This involves studying the foundational aspects of modelling and model transformation, on the basis of the paradigm of graph transformation. He is the driving force behind the graph transformation tool GROOVE, which is used worldwide in academic research and teaching.
+
+Academically, Arend Rensink is active as PC chair and organiser of a number of conferences and workshops, SC member of ETAPS, ICTS and TTC, board member of the European Association of Programming Languages and Systems, and editor of the STTT journal. Up to date, has has acted as promotor of four PhD students.
